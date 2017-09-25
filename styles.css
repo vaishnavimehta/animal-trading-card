@@ -1,38 +1,37 @@
 /* add your CSS here */
-img
-{
-	height:200px;
-	width:300px;
+img {
+	height: 200px;
+	width: 300px;
 }
-.italicise
-{
+
+.italicise {
 	font-style: italic;
 }
-span
-{
+
+span {
 	font-weight: bold;
 }
-ul
-{
+
+ul {
 	list-style-type: none;
 }
-body
-{
-    border:outset 1px black;
+
+body {
+    border: outset 1px black;
     box-shadow: 10px 10px 5px 0px;
-    padding:10px;
-    width:800px;
+    padding: 10px;
+    width: 320px;
 }
-.innerborder
-{
-    border:double 1px;
-    padding:10px;
+
+.innerborder {
+    border: double 1px;
+    padding: 10px;
 }
-img
-{
-    padding:10px;
+
+img {
+    padding: 10px;
 }
-h3
-{
-	padding:10px;
+
+h3 {
+	padding: 10px;
 }
